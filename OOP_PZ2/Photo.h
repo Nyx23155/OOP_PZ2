@@ -2,9 +2,9 @@
 #include <string>
 #include <chrono>
 #include <vector>
-#include "Person.h"
-#include "Place.h"
 
+class Place;
+class Person;
 class Album;
 
 class Photo
